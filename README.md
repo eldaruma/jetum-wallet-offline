@@ -1,6 +1,6 @@
 # JetumWallet Offline
 
-This is offline version of [JetumWallet interface](https://github.com/elxor/jetum-wallet).
+This is offline version of [JetumWallet interface](https://github.com/eldaruma/jetum-wallet).
 
 Generate Ethereum wallets and sign transactions without the internet.
 
@@ -10,7 +10,7 @@ For increased security, you can run JetumWallet on your local computer, instead 
 
 ### Downloading and Running JetumWallet Offline
 
-Step 1. Start by [downloading the latest release of JetumWallet Offline](https://github.com/elxor/jetum-wallet-offline/releases).
+Step 1. Start by [downloading the latest release of JetumWallet Offline](https://github.com/eldaruma/jetum-wallet-offline/releases).
 
 Step 2. Click on JetumWalletOffline-vX.X.X.zip to download the file. Move this file to a USB stick (or another storage transfer device), and transfer it to your permanently-offline computer.
 
@@ -24,7 +24,7 @@ Step 4. To open JetumWalletOffline, double-click the ‘index.html’ file. This
 
 ### Find the Nonce and Transaction Details
 
-Step 1. Head to [JetumWallet.com](https://jetumwallet.com/) on your online computer.
+Step 1. Head to [JetumWallet](https://github.com/eldaruma/jetum-wallet) on your online computer.
 
 Step 2. At the bottom, in the footer, choose the ‘Send Offline Helper’ tool.
 
